@@ -1,0 +1,5 @@
+%{
+  "dialyxir": {:hex, :dialyxir, "1.0.0-rc.2", "1e68d42870c50dac013e8184254f232c32fa4164a4cdc001d723389cdee27b35", [:mix], [], "hexpm"},
+  "propcheck": {:hex, :propcheck, "1.0.6", "c206366e4870432be73eedd7309e2e2a489561b52f355f709dc500ee8386a873", [:mix], [{:proper, "~> 1.2.0", [hex: :proper, repo: "hexpm", optional: false]}], "hexpm"},
+  "proper": {:hex, :proper, "1.2.0", "1466492385959412a02871505434e72e92765958c60dba144b43863554b505a4", [:make, :mix, :rebar3], [], "hexpm"},
+}
